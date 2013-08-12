@@ -564,7 +564,7 @@ span.accent {
   margin: 1em 0 1em;
 }
 #mainContent table.simple thead{
-  background: #555;
+  background: #666;
   border-bottom: 1px solid #000;
 }
 #mainContent table.simple thead th{
@@ -633,7 +633,7 @@ span.accent {
   padding: 0 10px;
   line-height: 2.6em;
   color: #FFF;
-  background: #555;
+  background: #666;
   border-bottom: 1px solid #000;
 }
 #mainContent table.complex thead {
